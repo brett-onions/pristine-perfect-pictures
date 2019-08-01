@@ -4,7 +4,7 @@
 
 ## Summary
 
-This repository is a back end api for the fictional company Pristine Perfect Pictures $p^3$.
+This repository is a back end api for the fictional company Pristine Perfect Pictures.
 
 
 
@@ -12,7 +12,6 @@ This repository is a back end api for the fictional company Pristine Perfect Pic
 
 ## Installation
 
-
-
- 
-
+### Requirements
+- MySQL v5.7
+- Node v10.16.0
