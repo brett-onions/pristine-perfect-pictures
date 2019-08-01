@@ -4,7 +4,7 @@
 
 ## Summary
 
-This repository is a back end api for the fictional company Pristine Perfect Pictures ***$p^3$***.
+This repository is a back end api for the fictional company Pristine Perfect Pictures $p^3$.
 
 
 
