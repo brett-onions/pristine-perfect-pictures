@@ -11,7 +11,7 @@ require('dotenv').config();
 @Module({
   imports: [UsersModule, PassportModule, JwtModule.register({
     secret: process.env.SECRET,
-    signOptions: { expiresIn: '360s' },
+    signOptions: { expiresIn: '259200s' },
   })],
   providers: [AuthService, LocalStrategy, JwtStrategy],
   exports: [AuthService],
